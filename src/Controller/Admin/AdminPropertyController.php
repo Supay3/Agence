@@ -21,7 +21,7 @@ class AdminPropertyController extends AbstractController
      */
     private $repository;
     /**
-     * @var EntityManager
+     * @var EntityManagerInterface
      */
     private $em;
 
