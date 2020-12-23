@@ -16,6 +16,9 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "select2": "^4.0.13"
+        "leaflet": "^1.7.1",
+        "places.js": "^1.19.0",
+        "select2": "^4.0.13",
+        "slick-carousel": "^1.8.1"
     }
 }
