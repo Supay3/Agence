@@ -26,9 +26,13 @@ $ php bin/console doctrine:fixtures:load
 - ```jQuery```
 #### Api
 - ```Algolia Places```
-- ```Leaflet```
 #### Librairies
 - ```Select2 (sur jQuery)```
+- ```Leaflet```
+#### Bundles
+- ```KnpPaginatorBundle```
+- ```VichUploaderBundle```
+- ```LiipImagineBundle```
 
 ### Auteurs
 - Grafikart (sur le site <a href="https://www.grafikart.fr">Grafikart.fr</a>)
