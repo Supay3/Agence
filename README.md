@@ -26,10 +26,10 @@ $ php bin/console doctrine:fixtures:load
 - ```jQuery```
 #### Api
 - ```Algolia Places```
--```Leaflet```
+- ```Leaflet```
 #### Librairies
 - ```Select2 (sur jQuery)```
 
 ### Auteurs
-- Grafikart (sur le site <a href="https://www.grafikart.fr">Grafikart</a>)
+- Grafikart (sur le site <a href="https://www.grafikart.fr">Grafikart.fr</a>)
 - <a href="https://github.com/Supay3/">Elzéar Brouillet</a>
