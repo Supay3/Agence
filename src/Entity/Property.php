@@ -158,7 +158,6 @@ class Property
     public function getSlug (): string
     {
         return strtolower((new AsciiSlugger())->slug($this->title));
-
     }
 
     public function getDescription(): ?string
